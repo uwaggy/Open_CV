@@ -5,8 +5,8 @@ image = cv2.imread('lena.jpg')
 
 # Add text to the image
 # Text: 'Hello OpenCV!', Location (x,y): (100, 200)
-# Font: FONT_HERSHEY_SIMPLEX, Scale: 1, Color: Green (BGR: (0, 255, 0)), Thickness: 2
-cv2.putText(image, 'Lena, the famous!', (100, 200), cv2.FONT_HERSHEY_SIMPLEX, 5, (0, 255, 0), 14)
+# Font: FONT_HERSHEY_SIMPLEX, Scale: 1, Color: Green (BGR: (0, 255, 0)), Thickness: 14
+cv2.putText(image, 'Lena, the famous!', (100, 200), cv2.FONT_HERSHEY_SIMPLEX, 6, (0, 255, 0), 20)
 
 # Display the image with text in a window
 cv2.imshow('Image', image)

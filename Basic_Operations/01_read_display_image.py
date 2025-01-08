@@ -5,7 +5,7 @@ import cv2  # Import OpenCV library
 image = cv2.imread('lena.jpg')
 
 # Display the image in a new window named 'Image'
-cv2.imshow('Image', image)
+cv2.imshow('Image Window', image)
 
 # Wait indefinitely until a key is pressed
 cv2.waitKey(0)

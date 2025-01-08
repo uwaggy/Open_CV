@@ -4,7 +4,7 @@ import cv2  # Import OpenCV library
 image = cv2.imread('lena.jpg')
 
 # Flip the image horizontally (1 = horizontal flip)
-flipped_image = cv2.flip(image, 1)
+flipped_image = cv2.flip(image, 100)
 
 # Display the flipped image in a window
 cv2.imshow('Image', flipped_image)

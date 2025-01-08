@@ -32,7 +32,7 @@ merged_image = cv2.merge((r, g, b))
 cv2.imshow('Merged Image (Swapped)', merged_image)
 
 # Display the merged image for the same duration
-cv2.waitKey(slide_duration)
+cv2.waitKey(0)
 
 # Close all OpenCV windows
 cv2.destroyAllWindows()
