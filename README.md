@@ -25,9 +25,9 @@ This repository is a comprehensive collection of OpenCV-based functions, tutoria
 Follow these steps to install OpenCV:
 
 1. **Install OpenCV via pip**:
-   ```bash
+```bash
    pip install opencv-python
-   ```
+```
 
 2.	**(Optional) Install Additional Modules:**
     For more functionalities, such as reading advanced image/video formats:
