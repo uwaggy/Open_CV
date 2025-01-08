@@ -6,9 +6,8 @@ This repository is a comprehensive collection of OpenCV-based functions, tutoria
 
 ## Features
 
-- **Basic Operations**: Image reading, resizing, cropping, and color transformations.
+- **Basic Operations**: Image reading, resizing, cropping, and color transformations, drawing and Annotation
 - **Image Transformations**: Rotation, scaling, and perspective transformations.
-- **Drawing and Annotation**: Drawing shapes and adding text to images.
 - **Feature Detection**: Detecting keypoints using SIFT, SURF, and ORB.
 - **Object Detection and Tracking**: Implementing YOLO, Haar cascades, and template matching.
 - **Video Processing**: Frame extraction, video capture, and real-time processing.
